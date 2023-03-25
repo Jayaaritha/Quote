@@ -1,0 +1,95 @@
+body,html
+{
+    width: 99%;
+    font-family: system-ui;
+    height: 99%;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+#quoteinput
+{
+    margin-top: 2%;
+    margin-left: 37%;
+    padding: 1%;
+    border-radius: 17px;
+    height: 2%;
+    width: 20%;
+    background: black;
+    border: 1px solid gray;
+    color: white;
+ }
+    
+ #enter
+ {
+    margin-left: 1%;
+    width: 4%;
+    border-radius: 14px;
+    border: 1px solid gray;
+    height: 3.5%;
+    background: black;
+    color: #087ea7;
+    cursor:pointer;
+ }
+    
+ #quotediv
+ {
+    padding: 3%;
+    width: 59%;
+    font-size: 153%;
+    background-color: black;
+    display: flex;
+    height: 30%;
+    border-bottom: 1px solid white;
+    margin-left: 28%;
+    justify-content: center;
+    align-items: center;
+ }
+ #quotehead
+ {
+    color: #9c9898;
+    font-size: 284%;
+    margin-top: 4%;
+    margin-left: 27%;
+    margin-bottom: 0%;
+ }
+ #author
+ {
+    color: #9c9898;
+    font-size: 180%;
+    margin-top: 7%;
+    margin-left: 27%;
+    margin-bottom: 0%;
+ }
+ #category
+ {
+    color: #9c9898;
+    font-size: 171%;
+    margin-top: -4.7%;
+    margin-left: 61%;
+    margin-bottom: 0%;
+ }
+ #authordiv
+ {
+    margin-left: 33%;
+    padding: 1%;
+    height: 2%;
+    font-size: 180%;
+    border-bottom: 1px solid white;
+    width: 25%;
+ }
+ #categorydiv
+ {
+    margin-left: 68%;
+    padding: 1%;
+    height: 2%;
+    font-size: 180%;
+    border-bottom: 1px solid white;
+    width: 23%;
+ }
+#container {
+    margin-left: -20%;
+    height: 100%;
+    margin-top: 6%;
+}
+    
